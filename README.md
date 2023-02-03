@@ -1,1 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chicken-tender)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/chicken-tender"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=chicken-tender" alt="https://github.com/anuraghazra/github-readme-stats"/></a>
+<a href="https://github.com/chicken-tender"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicken-tender&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/></a>
