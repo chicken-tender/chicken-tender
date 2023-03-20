@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/ReactNative-65ADF1?style=flat&logo=React&logoColor=white">
 </div>
 <br>
