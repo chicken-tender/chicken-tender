@@ -37,7 +37,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS 🎨</p>
+	<p>💕 Contact 💕</p>
 </div>
 <div align=center>
 	<a href="https://developyanggaeng.tistory.com" target="_blank">
