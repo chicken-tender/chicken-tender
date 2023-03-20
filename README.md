@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome!!&fontSize=90)
 	<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>🐣 Languages & DB 🐣</p>
