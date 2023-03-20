@@ -40,7 +40,7 @@
 	<p>💕 Contact 💕</p>
 </div>
 <div align=center>
-	<a href="https://developyanggaeng.tistory.com" target="_blank">
+	<a href="tistory.com" target="_blank">
 		<img src="https://img.shields.io/badge/Blog-EA3680?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:ygm815@naver.com">
