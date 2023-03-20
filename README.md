@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome!!&fontSize=90)
+<p align="center">
+🦄 생각을 구현하기, 구현한 것의 문제를 해결하기 ⛏️
+</p>
 	<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>🐣 Languages & DB 🐣</p>
