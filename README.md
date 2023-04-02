@@ -18,12 +18,11 @@
 </div>
 <br>
 <div align=center>
-	<p>🛒 Framework 🛒</p>
+	<p>🛒 Framework & Library 🛒</p>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Bootstrap&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
