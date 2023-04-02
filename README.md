@@ -15,6 +15,7 @@
   <br>
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=plastic&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white" />
 </div>
 <br>
 <div align=center>
