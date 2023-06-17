@@ -49,4 +49,4 @@
 	</a>
 	<br>
 </div>
-<img align="right" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicken-tender&layout=compact&theme=transparent&hide_border=true" /></a> 
+<img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicken-tender&layout=compact&theme=transparent&hide_border=true" /></a> 
