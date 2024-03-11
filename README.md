@@ -3,11 +3,11 @@
 🦄 생각을 구현하기, 구현한 것의 문제를 해결하기 ⛏️
 </p>
 	<div align=center>
-	<h3>👩🏻‍💻 Career 👩🏻‍💻</h3>
+	<h2>👩🏻‍💻 Career 👩🏻‍💻</h2>
 	<p>1. 한국보팍 VTK Portal 개발 프로젝트 (2023.10 ~ 2023.12) </p>
 	<p>2. NH 오늘농사 모바일 어플리케이션 3차 고도화 프로젝트 (2024.02 ~ )</p>
 		<hr>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2>
 	<p>🐣 Languages & DB 🐣</p>
 </div>
 <div align="center">
@@ -43,7 +43,7 @@
 </div>
 <br>
 <div align=center>
-	<p>💕 Contact 💕</p>
+	<h2>💕 Contact 💕</h2>
 </div>
 <div align=center>
 	<a href="https://developyanggaeng.tistory.com/">
