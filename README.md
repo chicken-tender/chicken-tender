@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/ReactNative-65ADF1?style=plastic&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=plastic&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=plastic&logo=Nuxt.js&logoColor=white">
 </div>
 <br>
 <div align=center>
@@ -44,7 +46,7 @@
 	<p>💕 Contact 💕</p>
 </div>
 <div align=center>
-	<a href="https://tistory.com">
+	<a href="https://developyanggaeng.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-EA3680?style=plastic&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:ygm815@naver.com">
